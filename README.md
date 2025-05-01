@@ -1,4 +1,4 @@
-![Banner](Beige%20Grey%20Vlogger%20YouTube%20Banner.png)
+![Banner](Github%20Banner.png)
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4db6ac;">HRIDYANSH JHA</span></h1>
 
