@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **hridyanshjhag@gmail.com**
 
-<img align ="right" alt="coding" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhneGU5dGVyZGllMm80ajI4Z3o3anh0MXhqcGV2a3J2bWoxMmduayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"
+<img align ="right" alt="coding" width="500" src="![image](https://github.com/user-attachments/assets/8ee6a268-c450-44c9-b36b-bcc8d39f4f54)
+"
 
 
 <h3 align="left">Connect with me:</h3>
