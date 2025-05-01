@@ -39,6 +39,8 @@
   <a href="https://linkedin.com/in/hridyanshjha" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
+  
+## 🌐 My Coding Profiles
   <a href="https://auth.geeksforgeeks.org/user/hridyansh_jha/profile" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GFG" />
   </a>
