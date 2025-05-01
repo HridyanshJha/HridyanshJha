@@ -13,8 +13,9 @@
 
 - 📫 How to reach me **hridyanshjhag@gmail.com**
 
-<img align ="right" alt="coding" width="500" src="![image](https://github.com/user-attachments/assets/8ee6a268-c450-44c9-b36b-bcc8d39f4f54)
-"
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/8ee6a268-c450-44c9-b36b-bcc8d39f4f54" alt="coding" width="200" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
