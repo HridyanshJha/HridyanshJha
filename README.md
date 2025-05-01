@@ -1,32 +1,40 @@
-<h1 align="center">Hi 👋, I'm HRIDYANSH JHA</h1>
-<h3 align="center">A 3rd-year Engineering student passionate about the IT sector, especially in Data Science and Web Development. 🔍 Currently exploring real-world projects to strengthen my skills in machine learning, data analytics, and modern web technologies. 💻 I enjoy turning ideas into code and learning through building. 📈 Always curious, always learning.</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#4db6ac;">HRIDYANSH JHA</span></h1>
 
-- 🔭 I’m currently working on **Machine Learning Based projects**
+<h3 align="center">
+  🚀 3rd-year Engineering Student | Passionate about Data Science & Web Development <br />
+  🔍 Exploring real-world projects to master ML, Analytics, and Modern Web Tech <br />
+  💻 Turning ideas into code | 📈 Always Curious, Always Learning
+</h3>
 
-- 🌱 I’m currently learning **Deep Learning (External Insights of Machine Learning)**
+---
 
-- 👯 I’m looking to collaborate on [Sponsor provider App](https://github.com/HridyanshJha/fest-funder-connect)
+### 🔭 Current Projects
+- Working on **Machine Learning-based projects**
+- Building [Sponsor Provider App – Fest Funder Connect](https://github.com/HridyanshJha/fest-funder-connect) 🚀
 
-- 🤝 I’m looking for help with [Sponsor provider App](https://github.com/HridyanshJha/fest-funder-connect)
+### 🌱 Currently Learning
+- **Deep Learning & External Insights of ML**
 
-- 💬 Ask me about **react, HTML, CSS, Python**
+### 🤝 Let’s Collaborate
+- I'm looking to **collaborate or get help** on [Fest Funder Connect](https://github.com/HridyanshJha/fest-funder-connect)
 
-- 📫 How to reach me **hridyanshjhag@gmail.com**
+### 💬 Ask Me About
+- React, HTML, CSS, Python
 
-<table>
-  <tr>
-    <!-- Left: Social Icons -->
-    <td align="left" style="vertical-align: middle;">
-      <h3>Connect with me:</h3>
-      <a href="https://linkedin.com/in/hridyanshjha" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-      <a href="https://auth.geeksforgeeks.org/user/hridyansh_jha/profile" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 📫 Contact Me
+- 📧 **hridyanshjhag@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/hridyanshjha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/hridyansh_jha/profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GFG" />
+  </a>
+</p>
 
 
 
