@@ -12,19 +12,36 @@
 
 <table>
   <tr>
-    <td>
+  <td>
 
-### 🔭 Current Projects
-- Working on **Machine Learning-based projects**
-- Building [Sponsor Provider App – Fest Funder Connect](https://github.com/HridyanshJha/fest-funder-connect) 🚀
+<h2 align="center">🚀 <span style="color:#f39c12;">Current Projects</span></h2>
 
-### 🌱 Currently Learning
-- **Deep Learning & External Insights of ML**
+<ul>
+  <li>💡 Working on <strong><span style="color:#2ecc71;">Machine Learning-based projects</span></strong> focused on real-world data applications.</li>
+  <li>🎯 Building <a href="https://github.com/HridyanshJha/fest-funder-connect" target="_blank"><strong>Fest Funder Connect</strong></a> — <em>A sponsorship platform for college fests and events</em>.</li>
+</ul>
 
-### 📫 Contact Me
-- 📧 **hridyanshjhag@gmail.com**
+<br/>
+
+<h2 align="center">🌱 <span style="color:#3498db;">Currently Learning</span></h2>
+
+<ul>
+  <li>🧠 <strong>Deep Learning</strong> — CNNs, RNNs, and attention-based models</li>
+  <li>📊 External Insights of <strong>Machine Learning</strong> — Optimization, Data Ethics, and Responsible AI</li>
+</ul>
+
+<br/>
+
+<h2 align="center">📬 <span style="color:#9b59b6;">Contact Me</span></h2>
+
+<ul>
+  <li>📧 <strong>Email:</strong> <a href="mailto:hridyanshjhag@gmail.com">hridyanshjhag@gmail.com</a></li>
+  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/hridyanshjha" target="_blank">linkedin.com/in/hridyanshjha</a></li>
+  <li>🌐 <strong>Portfolio:</strong> <a href="https://your-portfolio-link.com" target="_blank">your-portfolio-link.com</a> <!-- Replace with your actual link --></li>
+</ul>
 
 </td>
+
     <td align="right" width="400">
       <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="GitHub GIF" width="350" />
       <br />
