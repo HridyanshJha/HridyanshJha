@@ -37,7 +37,7 @@
 
   - 📧 <a href="mailto:hridyanshjhatech@gmail.com">hridyanshjhag@gmail.com</a>
   - 🔗 <a href="https://www.linkedin.com/in/hridyansh-j-b8a165260/">LinkedIn Profile</a>
-  - 🌐 <a href="https://your-portfolio-link.com">Portfolio (Add yours here)</a>
+  - 🌐 <a href="https://hridyansh-jha-portfolio.netlify.app/">Portfolio</a>
 
   </td>
 
