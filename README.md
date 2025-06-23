@@ -42,7 +42,7 @@
   </td>
 
   <td align="center" width="40%">
-    <img src="https://i.pinimg.com/originals/8b/32/50/8b3250a34bfc9bdc74ec5c0411cd8c21.gif" alt="Dev GIF" width="350" />
+    <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Dev GIF" width="350" />
     <br/>
     <img src="https://readme-typing-svg.demolab.com/?lines=Let's+Build+Something+Amazing!;Full+Stack+Ready.;Hire+Me!+💼" alt="Hire Me Typing" width="350" />
   </td>
