@@ -8,36 +8,46 @@
 
 
 <h3 align="center">
-  🚀 3rd-year Engineering Student | Passionate about Data Science & Web Development <br />
-  🔍 Exploring real-world projects to master ML, Analytics, and Modern Web Tech <br />
-  💻 Turning ideas into code | 📈 Always Curious, Always Learning
+  🚀 3rd-year Engineering Student | Passionate about <span style="color:#00c4cc"><b>Data Science</b></span> & <span style="color:#fc8a00"><b>Web Development</b></span> <br/>
+  🔍 Exploring real-world projects to master <b>ML, Analytics, and Modern Web Tech</b> <br/>
+  💻 <em>Turning ideas into code</em> | 📈 <em>Always Curious, Always Learning</em>
 </h3>
 
----
+<br/>
 
 <table>
   <tr>
-    <td>
+    <td width="60%" valign="top">
 
-### 🔭 Current Projects
-- Working on **Machine Learning-based projects**
-- Building [Sponsor Provider App – Fest Funder Connect](https://github.com/HridyanshJha/fest-funder-connect) 🚀
+  <h3>🔭 <span style="color:#f39c12;">Current Projects</span></h3>
 
-### 🌱 Currently Learning
-- **Deep Learning & External Insights of ML**
+  - 💡 Building <a href="https://github.com/HridyanshJha/fest-funder-connect"><strong>Fest Funder Connect</strong></a> – a sponsor matchmaking platform for college fests 🚀  
+  - 🧠 ML-based projects on sentiment analysis, prediction systems & automation
 
-### 📫 Contact Me
-- 📧 **hridyanshjhag@gmail.com**
+  <br/>
 
-</td>
+  <h3>🌱 <span style="color:#3498db;">Currently Learning</span></h3>
 
-    <td align="right" width="400">
-      <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="GitHub GIF" width="350" />
-      <br />
-    </td>
+  - Deep Learning (CNNs, RNNs, Transfer Learning)
+  - External Insights of ML – Data Ethics, Optimization, Real-time Deployment
+
+  <br/>
+
+  <h3>📫 <span style="color:#9b59b6;">Contact Me</span></h3>
+
+  - 📧 <a href="mailto:hridyanshjhag@gmail.com">hridyanshjhag@gmail.com</a>
+  - 🔗 <a href="https://www.linkedin.com/in/hridyanshjha">LinkedIn Profile</a>
+  - 🌐 <a href="https://your-portfolio-link.com">Portfolio (Add yours here)</a>
+
+  </td>
+
+  <td align="center" width="40%">
+    <img src="https://i.pinimg.com/originals/8b/32/50/8b3250a34bfc9bdc74ec5c0411cd8c21.gif" alt="Dev GIF" width="350" />
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Let's+Build+Something+Amazing!;Full+Stack+Ready.;Hire+Me!+💼" alt="Hire Me Typing" width="350" />
+  </td>
   </tr>
 </table>
-
 ---
 
 ## 🌐 Connect With Me
