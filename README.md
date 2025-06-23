@@ -45,8 +45,6 @@
     <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Dev GIF" width="350" />
     <br/>
     
-    <!-- Animated "Hire Me" Section -->
-    
 <p align="center">
   <img src="https://media.tenor.com/LDP8ZB7gojsAAAAM/multiversx-x.gif" width="300" alt="Hire Me Animation" />
 </p>
