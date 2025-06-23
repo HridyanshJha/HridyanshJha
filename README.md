@@ -60,44 +60,30 @@
 
 ---
 
-## 🌐 Connect With Me
-<p align="left" style="display: flex; justify-content: left; gap: 50px; flex-wrap: wrap;">
+<h2 align="left">🌐 Connect With Me</h2>
 
-  <a href="https://linkedin.com/in/hridyanshjha" target="_blank" style="margin: 30px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="Connect on LinkedIn"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 0px 15px #0e76a8';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+<p align="left">
+  <a href="https://linkedin.com/in/hridyanshjha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/hridyanshjha" target="_blank" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="Check my GitHub"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 0px 15px #333';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/hridyanshjha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-
-  <a href="https://instagram.com/hridyanshjha" target="_blank" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" title="Follow on Instagram"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 0px 15px #E1306C';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/hridyanshjha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
-
-  <a href="https://twitter.com/hridyanshjha" target="_blank" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" title="Follow on Twitter"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 0px 15px #1DA1F2';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/hridyanshjha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
   </a>
-
-  <a href="mailto:hridyanshjha@gmail.com" target="_blank" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" title="Send me an Email"
-         style="transition: transform 0.3s, box-shadow 0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 0px 15px #D44638';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hridyanshjha@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 </p>
+
 
   
 ## 🌐 My Coding Profiles
