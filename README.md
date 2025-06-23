@@ -1,6 +1,11 @@
 ![Banner](Github%20Banner.png)
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4db6ac;">HRIDYANSH JHA</span></h1>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4db6ac;"><b>HRIDYANSH JHA</b></span>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+ML+Engineer;Full-Stack+Developer;Open+Source+Contributor;Always+Learning!&center=true&width=500&height=40&color=4db6ac&vCenter=true&size=22" alt="Typing SVG">
+</h1>
+
 
 <h3 align="center">
   🚀 3rd-year Engineering Student | Passionate about Data Science & Web Development <br />
