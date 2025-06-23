@@ -44,7 +44,16 @@
   <td align="center" width="40%">
     <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Dev GIF" width="350" />
     <br/>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Let's+Build+Something+Amazing!;Full+Stack+Ready.;Hire+Me!+💼" alt="Hire Me Typing" width="350" />
+    <!-- Animated "Hire Me" Section -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26FPnsRww5xI6bwTC/giphy.gif" width="300" alt="Hire Me Animation" />
+</p>
+
+<h3 align="center">
+  🚀 Let’s <span style="color:#f39c12;"><strong>Build Something Amazing</strong></span> Together!<br/>
+  💼 Full-Stack Ready | <span style="color:#27ae60;"><strong>Available for Hire</strong></span>
+</h3>
+
   </td>
   </tr>
 </table>
