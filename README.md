@@ -3,7 +3,7 @@
 <h1 align="center">
   👋 Hi, I'm <span style="color:#4db6ac;"><b>HRIDYANSH JHA</b></span>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+ML+Engineer;Full-Stack+Developer;Open+Source+Contributor;Always+Learning!&center=true&width=500&height=40&color=4db6ac&vCenter=true&size=34" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+ML+Engineer;Full-Stack+Developer;Open+Source+Contributor;Always+Learning!&center=true&width=500&height=60&color=050e99&vCenter=true&size=34" alt="Typing SVG">
 </h1>
 
 
