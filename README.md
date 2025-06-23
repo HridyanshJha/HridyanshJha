@@ -63,7 +63,7 @@
 ## 🌐 Connect With Me
 <p align="left" style="display: flex; justify-content: left; gap: 50px; flex-wrap: wrap;">
 
-  <a href="https://linkedin.com/in/hridyanshjha" target="_blank" style="margin: 10px;">
+  <a href="https://linkedin.com/in/hridyanshjha" target="_blank" style="margin: 30px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="Connect on LinkedIn"
          style="transition: transform 0.3s, box-shadow 0.3s;"
          onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0px 0px 15px #0e76a8';"
