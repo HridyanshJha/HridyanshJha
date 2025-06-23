@@ -46,12 +46,12 @@
     <br/>
     <!-- Animated "Hire Me" Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPnsRww5xI6bwTC/giphy.gif" width="300" alt="Hire Me Animation" />
+  <img src="https://media.tenor.com/LDP8ZB7gojsAAAAM/multiversx-x.gif" width="300" alt="Hire Me Animation" />
 </p>
 
 <h3 align="center">
   🚀 Let’s <span style="color:#f39c12;"><strong>Build Something Amazing</strong></span> Together!<br/>
-  💼 Full-Stack Ready | <span style="color:#27ae60;"><strong>Available for Hire</strong></span>
+  💼 Full-Stack & Machine Learning Ready | <span style="color:#27ae60;"><strong>Hire Me</strong></span>
 </h3>
 
   </td>
