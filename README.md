@@ -86,4 +86,20 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridyanshjha&show_icons=true&locale=en&layout=compact" alt="hridyanshjha" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridyanshjha&" alt="hridyanshjha" /></p>
+<!-- GitHub Streak Stats with better loading experience -->
+<h3 align="center">🔥 Keep the Streak Alive!</h3>
+
+<p align="center">
+  <a href="https://github.com/hridyanshjha">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=hridyanshjha&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=hridyanshjha&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+    </picture>
+  </a>
+</p>
+
+<!-- Fallback for slow loading -->
+<p align="center">
+  <em>⚡ Working on exciting projects... loading contribution streak ⏳</em>
+</p>
+
