@@ -57,6 +57,7 @@
   </td>
   </tr>
 </table>
+
 ---
 
 ## 🌐 Connect With Me
@@ -108,7 +109,17 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridyanshjha&show_icons=true&locale=en&layout=compact" alt="hridyanshjha" /></p>
+<h2 align="center">🌐 Most Used Languages</h2>
+
+<p align="center">
+  <a href="https://github.com/hridyanshjha">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyanshjha&layout=compact&langs_count=10&theme=radical&bg_color=000000&title_color=00E676&text_color=ffffff&icon_color=4DB6AC&border_radius=10"
+      alt="Top Languages Used"
+      width="100%"
+    />
+  </a>
+</p>
 
 
 <!-- GitHub Streak Stats with better loading experience -->
