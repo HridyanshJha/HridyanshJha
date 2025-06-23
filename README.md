@@ -67,20 +67,20 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/HridyanshJha" target="_blank">
+  <a href="https://github.com/HridyanshJha" target="__blank">
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/hridyanshjha" target="__blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/hridyanshjha" target="__blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hridyanshjhatech@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  <a href="mailto:hridyanshjhatech@gmail.com" target="__blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
   </a>
 </p>
 
