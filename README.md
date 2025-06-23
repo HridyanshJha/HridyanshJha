@@ -116,7 +116,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyanshjha&layout=compact&langs_count=10&theme=radical&bg_color=000000&title_color=00E676&text_color=ffffff&icon_color=4DB6AC&border_radius=10"
       alt="Top Languages Used"
-      width="100%"
+      width="70%"
     />
   </a>
 </p>
