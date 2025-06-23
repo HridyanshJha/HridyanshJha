@@ -35,8 +35,8 @@
 
   <h3>📫 <span style="color:#9b59b6;">Contact Me</span></h3>
 
-  - 📧 <a href="mailto:hridyanshjhag@gmail.com">hridyanshjhag@gmail.com</a>
-  - 🔗 <a href="https://www.linkedin.com/in/hridyanshjha">LinkedIn Profile</a>
+  - 📧 <a href="mailto:hridyanshjhatech@gmail.com">hridyanshjhag@gmail.com</a>
+  - 🔗 <a href="https://www.linkedin.com/in/hridyansh-j-b8a165260/">LinkedIn Profile</a>
   - 🌐 <a href="https://your-portfolio-link.com">Portfolio (Add yours here)</a>
 
   </td>
@@ -63,23 +63,23 @@
 <h2 align="left">🌐 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/hridyanshjha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/hridyansh-j-b8a165260/" target="__blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/hridyanshjha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <a href="https://github.com/HridyanshJha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/hridyanshjha" target="_blank">
+  <a href="https://instagram.com/hridyanshjha" target="__blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/hridyanshjha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+  <a href="https://twitter.com/hridyanshjha" target="__blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hridyanshjha@gmail.com" target="_blank">
+  <a href="mailto:hridyanshjhatech@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 </p>
