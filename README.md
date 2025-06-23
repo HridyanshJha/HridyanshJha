@@ -35,9 +35,29 @@
 
   <h3>📫 <span style="color:#9b59b6;">Contact Me</span></h3>
 
-  - 📧 <a href="mailto:hridyanshjhatech@gmail.com">hridyanshjhag@gmail.com</a>
-  - 🔗 <a href="https://www.linkedin.com/in/hridyansh-j-b8a165260/">LinkedIn Profile</a>
-  - 🌐 <a href="https://hridyansh-jha-portfolio.netlify.app/">Portfolio</a>
+ <p>
+  <img src="https://skillicons.dev/icons?i=gmail" height="20" alt="Gmail" />
+  <strong>Email:</strong> &nbsp;
+  <a href="mailto:hridyanshjhatech@gmail.com" target="_blank">
+    hridyanshjhatech@gmail.com
+  </a>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn" />
+  <strong>LinkedIn:</strong> &nbsp;
+  <a href="https://www.linkedin.com/in/hridyansh-j-b8a165260/" target="_blank">
+    Visit my LinkedIn Profile
+  </a>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="20" alt="Portfolio" />
+  <strong>Portfolio:</strong> &nbsp;
+  <a href="https://hridyansh-jha-portfolio.netlify.app/" target="_blank">
+    Explore my Portfolio Website
+  </a>
+</p>
 
   </td>
 
