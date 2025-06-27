@@ -108,22 +108,19 @@
   
 ## 🌐 My Coding Profiles
 <a href="https://auth.geeksforgeeks.org/user/hridyansh_jha/profile" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="45" alt="GFG" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="35" alt="GFG" />
 </a>
 
-<span style="margin-right: 3em;"></span>
 
 <a href="https://leetcode.com/your_username" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45" alt="LeetCode" />
 </a>
 
-<span style="margin-right: 3em;"></span>
 
 <a href="https://www.hackerrank.com/your_username" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45" alt="HackerRank" />
 </a>
 
-<span style="margin-right: 3em;"></span>
 
 <a href="https://www.codechef.com/users/your_username" target="_blank">
   <img src="https://cdn.codechef.com/images/cc-logo.svg" height="45" alt="CodeChef" />
