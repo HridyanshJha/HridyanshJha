@@ -91,7 +91,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/hridyanshjha" target="__blank">
+  <a href="https://www.instagram.com/hridyansh.jha?igsh=dG5idmEwNnh1YW5w" target="__blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -107,9 +107,28 @@
 
   
 ## 🌐 My Coding Profiles
-  <a href="https://auth.geeksforgeeks.org/user/hridyansh_jha/profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GFG" />
-  </a>
+<a href="https://auth.geeksforgeeks.org/user/hridyansh_jha/profile" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GFG" />
+</a>
+
+<br><br><br>
+
+<a href="https://leetcode.com/your_username" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
+</a>
+
+<br><br><br>
+
+<a href="https://www.hackerrank.com/your_username" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30" alt="HackerRank" />
+</a>
+
+<br><br><br>
+
+<a href="https://www.codechef.com/users/your_username" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Codechef_logo.png" height="30" alt="CodeChef" />
+</a>
+
 </p>
 
 ---
