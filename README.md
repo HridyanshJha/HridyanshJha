@@ -107,24 +107,24 @@
 
   
 ## 🌐 My Coding Profiles
-<a href="https://auth.geeksforgeeks.org/user/hridyansh_jha/profile" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="35" alt="GFG" />
-</a>
 
-
-<a href="https://leetcode.com/your_username" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
-</a>
-
-
-<a href="https://www.hackerrank.com/your_username" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" alt="HackerRank" />
-</a>
-
-
-<a href="https://www.codechef.com/users/your_username" target="_blank">
-  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" alt="CodeChef" />
-</a>
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/hridyansh_jha/profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" style="margin: 10px;" />
+  </a>
+  
+  <a href="https://leetcode.com/your_username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" style="margin: 10px;" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/your_username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="40" style="margin: 10px;" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/your_username" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="40" style="margin: 10px;" />
+  </a>
+</p>
 
 
 </p>
