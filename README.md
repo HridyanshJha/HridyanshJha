@@ -113,17 +113,17 @@
 
 
 <a href="https://leetcode.com/your_username" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45" alt="LeetCode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
 </a>
 
 
 <a href="https://www.hackerrank.com/your_username" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45" alt="HackerRank" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" alt="HackerRank" />
 </a>
 
 
 <a href="https://www.codechef.com/users/your_username" target="_blank">
-  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="45" alt="CodeChef" />
+  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" alt="CodeChef" />
 </a>
 
 
