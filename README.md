@@ -8,7 +8,7 @@
 
 
 <h3 align="center">
-  🚀 3rd-year Engineering Student | Passionate about <span style="color:#00c4cc"><b>Data Science</b></span> & <span style="color:#fc8a00"><b>Web Development</b></span> <br/>
+  🚀 4th-year Engineering Student | Passionate about <span style="color:#00c4cc"><b>Data Science</b></span> & <span style="color:#fc8a00"><b>Web Development</b></span> <br/>
   🔍 Exploring real-world projects to master <b>ML, Analytics, and Modern Web Tech</b> <br/>
   💻 <em>Turning ideas into code</em> | 📈 <em>Always Curious, Always Learning</em>
 </h3>
