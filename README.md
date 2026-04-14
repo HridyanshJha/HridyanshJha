@@ -1,4 +1,4 @@
-![Banner](Github%20Banner.png)
+
 
 <h1 align="center">
   👋 Hi, I'm <span style="color:#4db6ac;"><b>HRIDYANSH JHA</b></span>
