@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+ML+Engineer;Full-Stack+Developer;Open+Source+Contributor;Always+Learning!&center=true&width=500&height=60&color=050e99&vCenter=true&size=34" alt="Typing SVG">
 </h1>
 
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hridyanshjha&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 
 <h3 align="center">
   🚀 4th-year Engineering Student | Passionate about <span style="color:#00c4cc"><b>Data Science</b></span> & <span style="color:#fc8a00"><b>Web Development</b></span> <br/>
